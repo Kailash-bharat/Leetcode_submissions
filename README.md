@@ -5,6 +5,7 @@ My Submissions in Leetcode platform
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0027-remove-element) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -14,6 +15,7 @@ My Submissions in Leetcode platform
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
