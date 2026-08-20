@@ -7,6 +7,7 @@ My Submissions in Leetcode platform
 | ------- |
 | [0001-two-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0027-remove-element) |
+| [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0001-two-sum) |
+| [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -33,4 +35,12 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
