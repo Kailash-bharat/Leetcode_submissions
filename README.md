@@ -63,4 +63,28 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Depth-First Search
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0802-find-eventual-safe-states) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0802-find-eventual-safe-states) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
