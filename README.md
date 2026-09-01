@@ -11,6 +11,7 @@ My Submissions in Leetcode platform
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ My Submissions in Leetcode platform
 | ------- |
 | [0001-two-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -49,6 +51,7 @@ My Submissions in Leetcode platform
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +76,7 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0802-find-eventual-safe-states) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -93,4 +97,8 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
