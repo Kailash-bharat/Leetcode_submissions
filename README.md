@@ -8,6 +8,7 @@ My Submissions in Leetcode platform
 | [0001-two-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0027-remove-element) |
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -24,6 +25,7 @@ My Submissions in Leetcode platform
 | ------- |
 | [0001-two-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -53,6 +55,7 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
