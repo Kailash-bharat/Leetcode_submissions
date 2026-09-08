@@ -42,6 +42,7 @@ My Submissions in Leetcode platform
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0002-add-two-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3870-count-commas-in-range](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
