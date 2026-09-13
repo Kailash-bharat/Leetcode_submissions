@@ -7,6 +7,7 @@ My Submissions in Leetcode platform
 | ------- |
 | [0001-two-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0027-remove-element) |
+| [0835-image-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -108,6 +109,7 @@ My Submissions in Leetcode platform
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
