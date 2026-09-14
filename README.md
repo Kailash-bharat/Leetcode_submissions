@@ -42,6 +42,7 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0002-add-two-numbers) |
+| [0836-rectangle-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3870-count-commas-in-range](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3871-count-commas-in-range-ii) |
@@ -125,4 +126,8 @@ My Submissions in Leetcode platform
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
