@@ -42,6 +42,7 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3870-count-commas-in-range](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3870-count-commas-in-range) |
@@ -70,6 +71,7 @@ My Submissions in Leetcode platform
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0069-sqrtx) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -132,4 +134,8 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
