@@ -66,6 +66,7 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ My Submissions in Leetcode platform
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
