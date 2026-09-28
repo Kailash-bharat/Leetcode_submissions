@@ -128,6 +128,7 @@ My Submissions in Leetcode platform
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -143,4 +144,12 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
