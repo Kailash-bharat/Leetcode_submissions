@@ -132,6 +132,7 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -140,6 +141,7 @@ My Submissions in Leetcode platform
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -160,6 +162,11 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
