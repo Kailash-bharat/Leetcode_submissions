@@ -98,6 +98,7 @@ My Submissions in Leetcode platform
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0802-find-eventual-safe-states](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -139,6 +140,7 @@ My Submissions in Leetcode platform
 | [0020-valid-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -184,4 +186,5 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
