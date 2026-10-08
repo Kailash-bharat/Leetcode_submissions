@@ -145,6 +145,7 @@ My Submissions in Leetcode platform
 | [0856-score-of-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
@@ -171,6 +172,7 @@ My Submissions in Leetcode platform
 | [0678-valid-parenthesis-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -180,6 +182,7 @@ My Submissions in Leetcode platform
 | [0678-valid-parenthesis-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
