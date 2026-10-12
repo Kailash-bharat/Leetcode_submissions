@@ -13,6 +13,7 @@ My Submissions in Leetcode platform
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3026-maximum-good-subarray-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3026-maximum-good-subarray-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -196,4 +197,8 @@ My Submissions in Leetcode platform
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
