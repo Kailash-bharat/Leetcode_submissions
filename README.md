@@ -55,6 +55,7 @@ My Submissions in Leetcode platform
 | [0836-rectangle-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -69,6 +70,7 @@ My Submissions in Leetcode platform
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
