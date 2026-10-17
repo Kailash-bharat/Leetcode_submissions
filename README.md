@@ -19,6 +19,7 @@ My Submissions in Leetcode platform
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -35,12 +36,14 @@ My Submissions in Leetcode platform
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3026-maximum-good-subarray-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3026-maximum-good-subarray-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
