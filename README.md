@@ -50,6 +50,7 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0069-sqrtx) |
 | [0343-integer-break](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0343-integer-break) |
 | [0836-rectangle-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
@@ -91,6 +92,7 @@ My Submissions in Leetcode platform
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -159,6 +161,7 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0343-integer-break](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0343-integer-break) |
 | [0678-valid-parenthesis-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
