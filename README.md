@@ -8,6 +8,7 @@ My Submissions in Leetcode platform
 | [0001-two-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0027-remove-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
@@ -46,6 +47,7 @@ My Submissions in Leetcode platform
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -62,6 +64,7 @@ My Submissions in Leetcode platform
 | [0069-sqrtx](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0069-sqrtx) |
 | [0343-integer-break](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0343-integer-break) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
