@@ -11,6 +11,7 @@ My Submissions in Leetcode platform
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -121,12 +122,14 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0802-find-eventual-safe-states) |
+| [1267-count-servers-that-communicate](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0802-find-eventual-safe-states](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
@@ -147,6 +150,7 @@ My Submissions in Leetcode platform
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
@@ -154,6 +158,7 @@ My Submissions in Leetcode platform
 | ------- |
 | [0835-image-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3665-twisted-mirror-path-count) |
@@ -254,4 +259,8 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
