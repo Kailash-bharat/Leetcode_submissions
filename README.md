@@ -28,6 +28,7 @@ My Submissions in Leetcode platform
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
@@ -196,6 +197,7 @@ My Submissions in Leetcode platform
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3693-climbing-stairs-ii) |
 ## Geometry
 |  |
 | ------- |
