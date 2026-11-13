@@ -21,6 +21,7 @@ My Submissions in Leetcode platform
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3026-maximum-good-subarray-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3026-maximum-good-subarray-sum) |
@@ -46,6 +47,7 @@ My Submissions in Leetcode platform
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2747-count-zero-request-servers) |
 | [3026-maximum-good-subarray-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3026-maximum-good-subarray-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -56,6 +58,7 @@ My Submissions in Leetcode platform
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
@@ -277,4 +280,8 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
