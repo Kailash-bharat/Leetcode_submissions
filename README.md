@@ -14,6 +14,7 @@ My Submissions in Leetcode platform
 | [1267-count-servers-that-communicate](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -77,6 +78,7 @@ My Submissions in Leetcode platform
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -173,6 +175,7 @@ My Submissions in Leetcode platform
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3026-maximum-good-subarray-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3026-maximum-good-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
@@ -202,6 +205,7 @@ My Submissions in Leetcode platform
 | [0343-integer-break](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0343-integer-break) |
 | [0678-valid-parenthesis-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3665-twisted-mirror-path-count) |
