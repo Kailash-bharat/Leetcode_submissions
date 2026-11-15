@@ -27,6 +27,7 @@ My Submissions in Leetcode platform
 | [3026-maximum-good-subarray-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3026-maximum-good-subarray-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -173,6 +174,7 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [3026-maximum-good-subarray-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3026-maximum-good-subarray-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -284,4 +286,5 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
