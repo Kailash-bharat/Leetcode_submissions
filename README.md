@@ -109,6 +109,7 @@ My Submissions in Leetcode platform
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -194,6 +195,7 @@ My Submissions in Leetcode platform
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
