@@ -207,6 +207,7 @@ My Submissions in Leetcode platform
 | [0115-distinct-subsequences](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0343-integer-break](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0343-integer-break) |
 | [0678-valid-parenthesis-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
+| [0688-knight-probability-in-chessboard](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0688-knight-probability-in-chessboard) |
 | [0940-distinct-subsequences-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
