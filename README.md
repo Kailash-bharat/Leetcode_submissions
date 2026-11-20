@@ -26,6 +26,7 @@ My Submissions in Leetcode platform
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3026-maximum-good-subarray-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3026-maximum-good-subarray-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -62,6 +63,7 @@ My Submissions in Leetcode platform
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -212,6 +214,7 @@ My Submissions in Leetcode platform
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3693-climbing-stairs-ii) |
 ## Geometry
