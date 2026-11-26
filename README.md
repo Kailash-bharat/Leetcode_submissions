@@ -39,6 +39,7 @@ My Submissions in Leetcode platform
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My Submissions in Leetcode platform
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ My Submissions in Leetcode platform
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3934-smallest-unique-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -303,4 +306,16 @@ My Submissions in Leetcode platform
 | [2747-count-zero-request-servers](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
