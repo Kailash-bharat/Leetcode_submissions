@@ -86,6 +86,7 @@ My Submissions in Leetcode platform
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3360-stone-removal-game](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -117,6 +118,7 @@ My Submissions in Leetcode platform
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
