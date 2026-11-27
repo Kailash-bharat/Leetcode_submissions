@@ -40,6 +40,7 @@ My Submissions in Leetcode platform
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ My Submissions in Leetcode platform
 | [1386-cinema-seat-allocation](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -225,6 +227,7 @@ My Submissions in Leetcode platform
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kailash-bharat/Leetcode_submissions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Geometry
 |  |
 | ------- |
